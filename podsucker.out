@@ -1,0 +1,42 @@
+     Running `target/debug/podcastsucker`
+Sucking Channel: This Week in Tech (MP3)
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0530/twit0530.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0532/twit0532.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0531/twit0531.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0536/twit0536.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0528/twit0528.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0533/twit0533.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0529/twit0529.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0534/twit0534.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0535/twit0535.mp3
+fetching http://www.podtrac.com/pts/redirect.mp3/twit.cachefly.net/audio/twit/twit0527/twit0527.mp3
+Fetched file: twit0528.mp3
+Start: 2015-11-17 23:54:18.764240 -05:00
+End: 2015-11-17 23:55:28.210302 -05:00
+Fetched file: twit0529.mp3
+Start: 2015-11-17 23:54:18.764236 -05:00
+End: 2015-11-17 23:55:44.003223 -05:00
+Fetched file: twit0527.mp3
+Start: 2015-11-17 23:54:18.764262 -05:00
+End: 2015-11-17 23:55:51.889388 -05:00
+Fetched file: twit0533.mp3
+Start: 2015-11-17 23:54:18.764175 -05:00
+End: 2015-11-17 23:56:06.885977 -05:00
+Fetched file: twit0531.mp3
+Start: 2015-11-17 23:54:18.764177 -05:00
+End: 2015-11-17 23:56:22.697372 -05:00
+Fetched file: twit0534.mp3
+Start: 2015-11-17 23:54:18.764130 -05:00
+End: 2015-11-17 23:56:27.089591 -05:00
+Fetched file: twit0535.mp3
+Start: 2015-11-17 23:54:18.764147 -05:00
+End: 2015-11-17 23:56:36.762047 -05:00
+Fetched file: twit0530.mp3
+Start: 2015-11-17 23:54:18.764203 -05:00
+End: 2015-11-17 23:56:42.990709 -05:00
+Fetched file: twit0536.mp3
+Start: 2015-11-17 23:54:18.764090 -05:00
+End: 2015-11-17 23:56:43.477542 -05:00
+Fetched file: twit0532.mp3
+Start: 2015-11-17 23:54:18.764149 -05:00
+End: 2015-11-17 23:56:46.802522 -05:00

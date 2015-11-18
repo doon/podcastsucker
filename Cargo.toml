@@ -5,5 +5,6 @@ authors = ["Patrick Muldoon <doon@inoc.net>"]
 
 [dependencies]
 
-rss   = "0.3"
-hyper = "0.6"
+rss    = "0.3"
+hyper  = "0.6"
+chrono = "0.2"
