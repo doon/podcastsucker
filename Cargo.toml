@@ -1,0 +1,9 @@
+[package]
+name = "podcastsucker"
+version = "0.1.0"
+authors = ["Patrick Muldoon <doon@inoc.net>"]
+
+[dependencies]
+
+rss   = "0.3"
+hyper = "0.6"
