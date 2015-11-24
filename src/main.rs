@@ -32,8 +32,9 @@ fn main() {
     let Rss(channel) = body.parse::<Rss>().unwrap();
     // < > are Generics, which allow us to pass The type into a function. So str::parse takes
     println!("Sucking Channel: {}", channel.title);
-    // iterate over the items // _ is type holder, meaning we are going to store something, but let
-    // the compiler figure out what exactlty 
+    // iterate over the items 
+    // _ is type holder, meaning we are going to store something, but let
+    // the compiler figure out what exactlty
     let handles: Vec<_> = channel.items.into_iter().map(|item| {
         thread::spawn(move || {
             // move is part of the shared state. it "moves" ownership of the item into the thread.
